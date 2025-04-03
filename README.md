@@ -27,7 +27,7 @@ This project implements an end-to-end pipeline to:
 *   **Current Model:** TensorFlow Sequential Neural Network.
 *   **Validation:** 5-Fold GroupKFold (grouped by Season).
 *   **Evaluation Metric:** Brier Score.
-*   **Current OOF Brier Score:** [**Update this with your score! e.g., 0.18543**]
+*   **Current OOF Brier Score:** [**0.2500**]
 
 ## Setup
 
